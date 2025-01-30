@@ -9,5 +9,6 @@ Použité komponenty:
 -	breadboard
 -	prepojovacie vodiče
 
+
   
 ![alt text](https://github.com/StefanMedvec/Alarm/blob/main/Odpudzova%C4%8D%20k%C3%BAn/Odpudzova%C4%8D%20k%C3%BAn%20%20s%20ESP32.jpg)
